@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package J08;
+import java.util.Scanner;
 public class Contoh1 {
     public static void main(String[] args)
     {
